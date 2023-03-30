@@ -1,0 +1,106 @@
+Удалить приложение 3D Builder
+Get-AppxPackage *3dbuilder* | Remove-AppxPackage
+
+Удалить приложение Будильники и часы
+Get-AppxPackage *WindowsAlarms* | Remove-AppxPackage
+
+Удалить Asphalt 8: Airborne
+Get-AppxPackage *Asphalt8Airborne* | Remove-AppxPackage
+
+Удалить приложение Калькулятор
+Get-AppxPackage *WindowsCalculator* | Remove-AppxPackage
+
+Удалить приложение Почта и Календарь
+Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
+
+Удалить приложение камеры
+Get-AppxPackage *WindowsCamera* | Remove-AppxPackage
+
+Удалить приложение Candy Crush Soda Saga
+Get-AppxPackage *CandyCrushSodaSaga* | Remove-AppxPackage
+
+Удалить приложение Facebook
+Get-AppxPackage *Facebook* | Remove-AppxPackage
+
+Удалить приложения Обращение за помощью и Отзывы
+Get-AppxPackage *Microsoft.GetHelp* | Remove-AppxPackage
+Get-AppxPackage *WindowsFeedbackHub* | Remove-AppxPackage
+
+Удалить приложение Улучшите свой Office
+Get-AppxPackage *officehub* | Remove-AppxPackage
+
+Удалить приложение Советы
+Get-AppxPackage *Getstarted* | Remove-AppxPackage
+
+Удалить приложение Groove Музыка
+Get-AppxPackage *ZuneMusic* | Remove-AppxPackage
+
+Удалить приложение Карты
+Get-AppxPackage *WindowsMaps* | Remove-AppxPackage
+
+Удалить приложение Skype
+Get-AppxPackage *Messaging* | Remove-AppxPackage
+Get-AppxPackage *Skype* | Remove-AppxPackage
+
+Удалить приложение Microsoft Solitaire Collection
+Get-AppxPackage *MicrosoftSolitaireCollection* | Remove-AppxPackage
+
+Удалить приложение Кино и ТВ
+Get-AppxPackage *ZuneVideo* | Remove-AppxPackage
+
+Удалить приложение Netflix
+Get-AppxPackage *Netflix* | Remove-AppxPackage
+
+Удалить приложение Новости
+Get-AppxPackage *BingNews* | Remove-AppxPackage
+
+Удалить приложение OneNote
+Get-AppxPackage *OneNote* | Remove-AppxPackage
+
+Удалить Paint 3D приложение
+Get-AppxPackage *MSPaint* | Remove-AppxPackage
+
+Удалить приложение Pandora
+Get-AppxPackage *PandoraMediaInc* | Remove-AppxPackage
+
+Удалить приложение Люди
+Get-AppxPackage *People* | Remove-AppxPackage
+
+Удалить приложение Ваш Телефон
+Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage
+
+Удалить приложение Фото
+Get-AppxPackage *Photos* | Remove-AppxPackage
+
+Удалить приложение Спорт
+Get-AppxPackage *bingsports* | Remove-AppxPackage
+
+Удалить приложение Sticky Notes
+Get-AppxPackage *MicrosoftStickyNotes* | Remove-AppxPackage
+
+Удалить Магазин с текущей Учетной записи (НЕ РЕКОМЕНДУЕТСЯ)
+Get-AppxPackage *WindowsStore* | Remove-AppxPackage
+
+Удалить приложение Sway
+Get-AppxPackage *Office.Sway* | Remove-AppxPackage
+
+Удалить приложение Twitter
+Get-AppxPackage *Twitter* | Remove-AppxPackage
+
+Удалить приложение 3D-Просмотр
+Get-AppxPackage *Microsoft3DViewer* | Remove-AppxPackage
+
+Удалить приложение Запись голоса
+Get-AppxPackage *soundrecorder* | Remove-AppxPackage
+
+Удалить приложение Погода
+Get-AppxPackage *bingweather* | Remove-AppxPackage
+
+Удалить приложение Xbox
+Get-AppxPackage *Xbox* | Remove-AppxPackage
+
+Удалить приложение Кортана
+Get-AppxPackage Microsoft.549981C3F5F10 | Remove-AppxPackage
+
+Удалить приложение Edge (не удаляется полностью без remove_Edge)
+Get-AppxPackage *Edge* | Remove-AppxPackage
